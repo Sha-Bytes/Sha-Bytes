@@ -71,16 +71,17 @@
 ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white) 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sha-bytes&show_icons=true&locale=en&layout=compact" alt="sha-bytes" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sha-bytes&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="sha-bytes" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sha-bytes&show_icons=true&locale=en" alt="sha-bytes" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sha-bytes&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="sha-bytes" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sha-bytes&" alt="sha-bytes" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sha-bytes&theme=radical&hide_border=false" alt="sha-bytes" /></p>
 
 
 <h3 align="left">🏆 GitHub Trophies:</h3>
 
 ![](https://github-profile-trophy.vercel.app/?username=sha-bytes&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=sha-bytes&icon=0&color=0)](https://visitcount.itsvg.in)
+<h3 align="left">😂 Random Dev Memes:</h3>
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
