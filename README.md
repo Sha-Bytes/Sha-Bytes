@@ -82,6 +82,4 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=sha-bytes&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<h3 align="left">😂 Random Dev Memes:</h3>
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
