@@ -1,3 +1,7 @@
+
+<img align="center" src="https://github.com/Sha-Bytes/Sha-Bytes/assets/107455405/3d07ce29-ee96-4f71-8806-3bdd64d27152" alt="sha-bytes" />
+<br>
+
 <h1 align="center">Hi 👋, I'm SHAJIN</h1>
 <h3 align="center">A passionate AI developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif">
